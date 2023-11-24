@@ -1,0 +1,26 @@
+log 1
+cheat_jetpack 1
+mapvote 1
+no_lead 1
+map_skip 41
+save_scores 1
+adminban 0
+auto_update 0
+custom_sleep 1
+aimbot_ban 10000 1
+max_votes 10
+sv_rcon_password sns99
+sapp_mapcycle 0
+save_scores 1
+map_skip 41
+sapp_console 1
+msg_prefix "*SnS* ."
+packet_limit 1024
+
+
+lua 1
+lua_load CustomColors
+lua_load seats
+lua_load logging
+lua_load game_clock
+
