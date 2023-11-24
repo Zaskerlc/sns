@@ -1,0 +1,7 @@
+sv_log_rotation_threshold 16384
+sv_name " .::clanSnS::.   sniper   .::1v1::."
+sv_maxplayers 2
+sv_motd "motd.txt"
+sv_mapcycle_timeout 10
+sv_mapcycle_begin
+load
